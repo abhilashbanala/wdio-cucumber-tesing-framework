@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+node_modules/*
+*.log
+test/reports/*
+package-lock.json
+allure-report/*
+logs/*
+reports/*
